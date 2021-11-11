@@ -1,0 +1,31 @@
+---
+title: "README"
+author: "Harry Buckley"
+date: "11/11/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## README
+
+This is the repository for the assignment of Harry Buckley in the module C7018 - 
+Statistical Analysis for Data Science. This is in accordance with the requirements 
+to gain a Masters degree in Data Science for Global Agriculture.
+
+Can a prediction be made for which team will win the game after 10 minutes of play time, and which variable(s) heavily influence the outcome: an example using League of Legends?
+
+# Files:
+
+Assignment coding
+
+Original data
+
+Tidy data
+
+Plots
+
+Report
+
