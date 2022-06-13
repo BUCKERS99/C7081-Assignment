@@ -1,5 +1,5 @@
 # C7081 - Predicting the outcome of a League of Legends game from the first 10 minutes of play
-This is the repository for the C7081 Statistical Learning 
+This is the repository for the C7081 Statistical Learning Assignment
 
 
 # Background
